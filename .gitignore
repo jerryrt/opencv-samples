@@ -2,4 +2,6 @@
 /.idea/workspace.xml
 /.idea/libraries/
 **/build
+**/libs
+**/obj
 .DS_Store
